@@ -147,7 +147,7 @@
   "buffers": [
     {
       "byteLength": 110400,
-      "uri": ".bin"
+      "uri": "toy.bin"
     }
   ],
   "extensionsRequired": [
